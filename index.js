@@ -86,7 +86,7 @@ john  age=30
 <br>
 var data  = {
    name : 'HarendranathVegi';
-   age : 44;
+   age : 3;
    console.log(data.age);
 }
 <br>
@@ -123,7 +123,7 @@ func hari(sal)
 {
    return sal + 5;
 }
-var output = hari(2100000);
+var output = hari(21);
 console.log(output);
 <br>
 ====
