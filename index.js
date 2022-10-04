@@ -128,4 +128,3 @@ console.log(output);
 <br>
 ====
 </h5>`;
-<h1> Hi Hari </h1>
